@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **kethavathsivanaik/kethavathsivanaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,  I’m Siva Naik
+#### I'm a DevOps & Hybrid Multi Cloud Engineer, MLOps Engineer, Opensource Contributer, and Freelancer,
+
+<a href="https://www.linkedin.com/in/sivanaik/">
+  <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
+</a>
+<a href="https://twitter.com/KethavathSiva">
+  <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+</a>
+<a href="mailto:sivanaikk0903@gmail.com">
+  <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+</a>
+<a href="https://www.youtube.com/channel/UCUY7ZkW-q0hkhuJotH7wqyw">
+  <img align="left" width="26px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
+</a>
+<a href="https://www.instagram.com/techie_siva_naik/">
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
+</a>
+
+<br/>
+<br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kethavathsivanaik.kethavathsivanaik)
+
+<br />
+
+
+<b> Community work as a Technical Volunteer </b>
+- Volunteered more than 5000+ students in different training programs by Linux World India in a year. During these programs solved the technical queries and debug when learners stuck with practicals and done advance troubleshooting in DevOps tools, Cloud Computing [ AWS, GCP, Azure] ,programming languages and Machine Learning Operations. 
+- 1 of 120 Technical Volunteers selected to help 1600+ undergraduates in 10+ Technologies over 10 months at ARTH - The School of Technologies 
+https://rightarth.com
+- Technical Volunteer of ARTH 2.0 
+-  Part of Technical Volunteers team at Indian Innovation and Entrepreneurship Community India.
+- Learner Succes Head at IIEC, India - Guided 200+ students with their management related things and organised activities to make them active learners in community. 
+- Leading technical clubs in University. Delivered Cloud Computing training for Carrer Development in University
+
+
+
