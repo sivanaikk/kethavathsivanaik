@@ -33,18 +33,15 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
 
-<br/>
-<br/>
+---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kethavathsivanaik.kethavathsivanaik)
 
-<br />
-<br />
+---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kethavathsivanaik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-
-<br />
+---
 
 <b> Community work as a Technical Volunteer </b>
 - Volunteered more than 5000+ students in different training programs by Linux World India in a year. During these programs solved the technical queries and debug when learners stuck with practicals and done advance troubleshooting in DevOps tools, Cloud Computing [ AWS, GCP, Azure] ,programming languages and Machine Learning Operations. 
@@ -55,13 +52,11 @@ https://rightarth.com
 - Learner Succes Head at IIEC, India - Guided 200+ students with their management related things and organised activities to make them active learners in community. 
 - Leading technical clubs in University. Delivered Cloud Computing training for Carrer Development in University
 
-
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=kethavathsivanaik&theme=react-dark&hide_border=true) -->
+---
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
 
-<!--END_SECTION:activity-->
 
