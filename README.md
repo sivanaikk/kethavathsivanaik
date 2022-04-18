@@ -56,4 +56,12 @@ https://rightarth.com
 - Leading technical clubs in University. Delivered Cloud Computing training for Carrer Development in University
 
 
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=Vrukshali-26&theme=react-dark&hide_border=true) -->
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+<!--END_SECTION:activity-->
 
