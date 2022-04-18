@@ -33,11 +33,13 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
 </a>
 
----
+<br />
+<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kethavathsivanaik.kethavathsivanaik)
 
----
+<br />
+<br />
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kethavathsivanaik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
