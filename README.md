@@ -59,11 +59,11 @@ https://rightarth.com
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3913](https://github.com/kubevela/kubevela/issues/3913) in [kubevela/kubevela](https://github.com/kubevela/kubevela)
-2. 🗣 Commented on [#5386](https://github.com/meshery/meshery/issues/5386) in [meshery/meshery](https://github.com/meshery/meshery)
-3. ❗️ Opened issue [#4886](https://github.com/kubesphere/kubesphere/issues/4886) in [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere)
-4. 🗣 Commented on [#4130](https://github.com/gitpod-io/gitpod/issues/4130) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. 🗣 Commented on [#3870](https://github.com/kubevela/kubevela/issues/3870) in [kubevela/kubevela](https://github.com/kubevela/kubevela)
+1. ❌ Closed PR [#238](https://github.com/kubesphere/helm-charts/pull/238) in [kubesphere/helm-charts](https://github.com/kubesphere/helm-charts)
+2. 🗣 Commented on [#238](https://github.com/kubesphere/helm-charts/issues/238) in [kubesphere/helm-charts](https://github.com/kubesphere/helm-charts)
+3. 🗣 Commented on [#239](https://github.com/kubesphere/helm-charts/issues/239) in [kubesphere/helm-charts](https://github.com/kubesphere/helm-charts)
+4. 🗣 Commented on [#239](https://github.com/kubesphere/helm-charts/issues/239) in [kubesphere/helm-charts](https://github.com/kubesphere/helm-charts)
+5. 💪 Opened PR [#239](https://github.com/kubesphere/helm-charts/pull/239) in [kubesphere/helm-charts](https://github.com/kubesphere/helm-charts)
 <!--END_SECTION:activity-->
 
 
